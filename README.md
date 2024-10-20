@@ -1,2 +1,2 @@
-#Integrantes
+Integrantes:
 Andrea Ramos, Fabiola Benitez
